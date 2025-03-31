@@ -84,7 +84,8 @@ python auto_vocab_saver.py
 ```
 
 ## Notes
-After the script completes the automatic answering process, **please manually submit the test or exam**.
+- After the script completes the automatic answering process, **please manually submit the test or exam**.
+- Since Gemini's inference is not 100% accurate, **the script cannot guarantee a perfect score (100%)**.
 
 ## License
 
