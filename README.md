@@ -4,7 +4,7 @@ This is an automated browser script powered by Selenium and Google Gemini API. I
 
 ## Installation & Setup
 
-### 1.Using Virtual Environment (Recommended)
+### 1. Using Virtual Environment (Recommended)
 
 It is recommended to create a virtual environment to avoid conflicts with system packages.
 
