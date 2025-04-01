@@ -14,7 +14,7 @@ import re
 client = genai.Client(api_key="your-api-key-here")
 
 # Set the path to GeckoDriver
-gecko_path = "/usr/local/bin/geckodriver"
+gecko_path = "your-path-to-geckodriver"
 service = Service(gecko_path)
 options = Options()
 
